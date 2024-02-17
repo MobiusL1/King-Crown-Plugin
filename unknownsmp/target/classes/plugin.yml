@@ -1,0 +1,9 @@
+name: unknownsmp
+version: '${1}'
+main: com.mobiusl.unknownsmp.Unknownsmp
+api-version: '1.20'
+commands:
+  givecrown:
+    description: gives the crown
+    usage: /givecrown
+    permission: op
